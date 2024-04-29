@@ -1,0 +1,11 @@
+body > div > div > div:nth-child(2) > div > div > div.card-body > p:nth-child(2) > span:nth-child(2){
+    font-size: 3em;
+}
+
+body{
+    background-image: url("../img/2102.i518.009_sky_cloud_evening_illustration.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment:fixed ;
+    background-size: cover;
+}
